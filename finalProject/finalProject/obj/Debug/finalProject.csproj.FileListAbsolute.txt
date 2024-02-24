@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\obj\Debug\finalProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\obj\Debug\finalProject.hoodiezStoreForm.resources
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\bin\Debug\Database1.mdf
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\bin\Debug\Database1_log.ldf
+C:\Users\ASUS\Desktop\cmpe 361 - project\finalProject\finalProject\obj\Debug\finalProject.Form2.resources
+C:\Users\ASUS\Desktop\finalProject\finalProject\obj\Debug\finalProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\ASUS\Desktop\finalProject\finalProject\obj\Debug\finalProject.pdb
